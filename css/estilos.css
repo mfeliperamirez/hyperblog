@@ -34,9 +34,17 @@ body
     margin: 0 auto;
 }
 
+#footer 
+{
+    background: #37488b ;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+}
+
 #container h1
 {
-    font-size: 20px;
+    font-size: 22px;
 }
 #post
 {
